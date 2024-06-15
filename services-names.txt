@@ -1382,3 +1382,8 @@ yellow
 yoga
 zen
 zone
+ftp
+ssh
+fileserver
+telnet
+vnc
